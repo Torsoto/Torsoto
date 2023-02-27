@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torsoto&label=Profile%20views&color=0e75b6&style=flat" alt="torsoto" /> </p>
 
-- 💬 Learn more about me on my [Portfolio](https://github.com/Torsoto/portfolio)
+- 💬 Learn more about me on my [Portfolio](https://torsoto.github.io/Portfolio/)
 - 🌱 I’m currently learning **HTML, CSS(+Tailwind) , Javascript(+React) and C**
 
 <h3 align="left">Languages and Tools:</h3>
